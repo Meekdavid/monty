@@ -1,4 +1,4 @@
-D
+
 #include "monty.h"
 
 
