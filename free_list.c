@@ -1,4 +1,4 @@
-David 
+David
 #include "monty.h"
 
 
