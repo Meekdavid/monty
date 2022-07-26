@@ -1,4 +1,4 @@
-David effiong effects Mbok
+David effiong effects Mbo
 #include "monty.h"
 
 
